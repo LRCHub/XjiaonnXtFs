@@ -1,0 +1,70 @@
+# Twilight Force – The Power of the Ancient Force
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Stars are shining on a bright night
+A hero is rising, guided by light
+Fire, glorious fire
+Burning within his heart
+
+In a land of mighty warriors
+Honour and glory, eternally
+Wisdom, oh, holy wisdom
+Dwelling within his sword
+
+Thousands of universes burn before my eyes
+Tales of ancient prophecies
+Came true and left again
+History was carved anew
+And lit the hope of men
+And the knights of twilight's might will rise again
+
+For the power of the ancient force
+Stars are shining
+Riding on the winds of light
+Twilight Force
+
+Fighting with both hope and might
+Glorious powers
+Side by side we stand and fall
+Twilight Force
+
+For the urge to revive
+
+Eyes are burning bright
+And we gaze into galaxies
+And the distant skies are burning bright
+So rise
+
+Lo and behold, I come to you, finally
+
+Storms are coming from the mountain
+Casting a shadow on fate of men
+Higher, fly higher and higher
+Victorious whispering winds
+
+He raised his sword in furious anger
+A strike of lightning struck at his side
+That night, the unholy forcelord
+Fell by the hand of light
+
+Thousands of universes burn before my eyes
+Tales of ancient prophecies
+Came true and left again
+History was carved anew
+And lit the hope of men
+And the knights of twilight's might will rise again
+
+For the power of the ancient force
+Stars are shining
+Riding on the winds of light
+Twilight Force
+
+Fighting with both hope and might
+Glorious powers
+Side by side we stand and fall
+Twilight Force
+
+For the urge to revive
+```
