@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "The Power of the Ancient Force",
+  "base_artist": "Twilight Force",
+  "createdAt": "2026-02-22T16:13:14.741224Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Power of the Ancient Force",
+      "artist": "Twilight Force",
+      "has_synced": false,
+      "path": "select/01_The_Power_of_the_Ancient_Force_Twilight_Force.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Power Of The Ancient Force",
+      "artist": "Twilight Force",
+      "has_synced": true,
+      "path": "select/02_The_Power_Of_The_Ancient_Force_Twilight_Force.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Power of the Ancient Force",
+      "artist": "Twilight Force",
+      "has_synced": false,
+      "path": "select/03_The_Power_of_the_Ancient_Force_Twilight_Force.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Power of the Ancient Force - Hanna Turi Version",
+      "artist": "Twilight Force",
+      "has_synced": true,
+      "path": "select/04_The_Power_of_the_Ancient_Force_-_Hanna_Turi_Version_Twilight_Force.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Power of the Ancient Force ◖ Hanna Turi version ◗  ⦓bonus track⦔",
+      "artist": "Twilight Force",
+      "has_synced": true,
+      "path": "select/05_The_Power_of_the_Ancient_Force_◖_Hanna_Turi_version_◗_⦓bonus_track⦔_Twilight_Force.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "055 -  Twilight Force - The Power Of The Ancient Force",
+      "artist": "Power Metal",
+      "has_synced": true,
+      "path": "select/06_055_-_Twilight_Force_-_The_Power_Of_The_Ancient_Force_Power_Metal.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "The Power Of The Ancient Force",
+      "artist": "Twilight Force",
+      "has_synced": false,
+      "path": "select/pl_01_The_Power_Of_The_Ancient_Force_Twilight_Force.txt"
+    }
+  ]
+}
